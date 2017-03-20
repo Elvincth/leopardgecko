@@ -504,7 +504,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/landscape2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1428.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -519,46 +519,6 @@
           },
           "title": "隱性基因<br><br>",
           "subtitle": "歸功於&nbsp;http://www.geckoboa.com/leopard-gecko-genetics.html"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".lead P": {
-              "text-align": "center",
-              "font-size": "17px",
-              "color": "#2d2d2d"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-5",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "隱性基因<br><br>",
-          "text": "<h4><br></h4><h3><b>日蝕</b></h3><p><br></p><p><b><br></b></p><h3><br></h3><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         }
       ]
     }
