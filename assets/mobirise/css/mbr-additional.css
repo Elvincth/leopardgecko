@@ -565,10 +565,21 @@ h6,
 #msg-box8-2 p {
   color: #fff;
 }
+#testimonials3-6 .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-6 .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-6 .card-block {
+  font-size: 12px;
+}
 #msg-box3-5 .mbr-section-title,
 #msg-box3-5 p {
   color: #000;
 }
 #msg-box3-5 .lead P {
   text-align: center;
+  font-size: 17px;
+  color: #2d2d2d;
 }
