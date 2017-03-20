@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -319,6 +319,9 @@
             },
             ".card-block": {
               "font-size": "12px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "10px"
             }
           },
           "_tags": [
@@ -407,7 +410,7 @@
                   "active": true
                 }
               },
-              "authorName": "川普白化",
+              "authorName": "墨菲無紋",
               "authorBio": "Developer"
             },
             {
@@ -425,7 +428,7 @@
               "authorBio": "Developer"
             },
             {
-              "text": "1. 體重<div>成體的公達到重量:80-110 g</div><div>成體的母達到重量:60-90 g</div><div>超過呢2個重量就係super giant</div><div>(*要去到10-12個月, 達以上重量)</div><div><br></div><div>2. 基因:</div><div>Super Giant X Super Giant = 100% Super Giant</div><div>Super Giant X Giant = 50% Super Giant / 50% Giant</div><div>Super Giant X Normal = 100% Giant</div><div>Giant X Giant = 25% Super Giant, 50% Giant, 25% Normal</div><div>Giant X Normal = 50% Giant / 50% Normal</div><div><br></div><div>3. 身長: Super Giant成體身長達 28 cm</div><div>多數super giant 身長會有 28cm or 11“ （10個月左右）</div><div><br></div><div>有時父母無GIANT基因, 但因其體質關係, 佢都可能會去到GIANT級的重量, 但因為佢無擁有GIANT 基因, 所以唔可以當係giant, 因為佢的子代都唔會有giant.<br><div><br></div></div>",
+              "text": "1. 體重<div>成體的公達到重量:80-110 g</div><div>成體的母達到重量:60-90 g</div><div>超過呢2個重量就係super giant</div><div>(*要去到10-12個月, 達以上重量)</div><div><br></div><div>2. 基因:</div><div>Super Giant X Super Giant = 100% Super Giant</div><div>Super Giant X Giant = 50% Super Giant / 50% Giant</div><div>Super Giant X Normal = 100% Giant</div><div>Giant X Giant = 25% Super Giant, 50% Giant, 25% Normal</div><div>Giant X Normal = 50% Giant / 50% Normal</div><div><br></div><div>3. 身長: Super Giant成體身長達 28 cm</div><div>多數super giant 身長會有 28cm or 11“ （10個月左右）</div><div><br></div><div>有時父母無GIANT基因, 但因其體質關係, 佢都可能會去到GIANT級的重量, 但因為佢無擁有GIANT 基因, 所以唔可以當係giant, 因為佢的子代都唔會有giant.<br><div><br></div></div><div>歸功於:Ron Poon</div>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -477,7 +480,7 @@
                   "active": true
                 }
               },
-              "authorName": "墨菲無紋",
+              "authorName": "",
               "authorBio": "Developer"
             },
             {
@@ -508,14 +511,14 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "count": "12",
             "showImages": false,
             "showName": true,
             "showBio": false
           },
-          "title": "隱性基因",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+          "title": "隱性基因<br><br>",
+          "subtitle": "歸功於&nbsp;http://www.geckoboa.com/leopard-gecko-genetics.html"
         },
         {
           "_inherit": "msg-box8",
