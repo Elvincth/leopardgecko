@@ -565,3 +565,10 @@ h6,
 #msg-box8-2 p {
   color: #fff;
 }
+#msg-box3-5 .mbr-section-title,
+#msg-box3-5 p {
+  color: #000;
+}
+#msg-box3-5 .lead P {
+  text-align: center;
+}

@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 3,
+    "uniqCompNum": 6,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -307,6 +307,44 @@
           "title": "豹紋守宮-品系",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-5",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "隱性基因",
+          "text": "<p>川普白化(德克薩斯州白化)</p><p>貝爾白化</p><p>拉斯維加斯白化(雨水白化)</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         }
       ]
     }
