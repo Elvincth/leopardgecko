@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -624,7 +624,7 @@
             "showButton": false
           },
           "title": "Dominant 顯性",
-          "text": "<div><span style=\"font-size: 1.07rem; line-height: 1.5; color: rgb(255, 255, 255);\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">照片從&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5; color: rgb(255, 255, 255);\">The Urban Gecko, ETC 資料來源, leopardgecko.com, GeckoBoa, leopardgeckowiki, http://bbs.pxtx.com/thread-978566-1-1.do,Premium Gecko P1Gecko</span><br></div>",
+          "text": "<div><span style=\"font-size: 1.07rem; line-height: 1.5; color: rgb(255, 255, 255);\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">照片從&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5; color: rgb(255, 255, 255);\">The Urban Gecko, ETC 資料來源, leopardgecko.com, GeckoBoa, leopardgeckowiki, http://bbs.pxtx.com/thread-978566-1-1.do,Premium Gecko P1Gecko,www.dragoongecko.com</span><br></div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -771,7 +771,7 @@
           "_anchor": "content5-m",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/ghost-2000x1033.png",
@@ -788,7 +788,39 @@
             "showCaption": true
           },
           "title": "Ghost 幽靈",
-          "caption": "<p><br></p><p>到目前為止，遺憾的是沒有關於鬼的確切起源的信息。有些人認為，第一隻幽靈出現在Ray Hines種群中，當時他主要在繁殖計劃中使用hypo morph。其他人說他們在Alex Hue的Hypo項目中出現了。他們肯定被來自Alex Hue Reptiles，可能在90年代早期或中期。</p>"
+          "caption": "<p><br></p><p>到目前為止，遺憾的是沒有關於鬼的確切起源的信息。有些人認為，第一隻幽靈出現在Ray Hines種群中，當時他主要在繁殖計劃中使用hypo morph。其他人說他們在Alex Hue的Hypo項目中出現了。他們肯定被來自Alex Hue Reptiles，可能在90年代早期或中期。</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">以下是Rebecca Hassler（www.dragoongecko.com）迄今為止在育種計劃中的成果：</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">幽靈x普通=約50％幽靈和50％普通</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">幽靈 x 幽靈 =約50％幽靈和50％普通（在鬼魂沒有超級形式！）<br></span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">資料來源:http://www.geckotime.com/ghost-leopard-gecko-morph/ , www.dragoongecko.com</span><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Title",
+          "caption": "<p>words</p>"
         }
       ]
     }
