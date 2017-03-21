@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Leopard Gecko",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -161,7 +161,7 @@
           },
           "title": "香港豹紋守宮資料庫",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">品系&amp;基因</a>   "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">品系 基因</a>   "
         }
       ]
     },
@@ -272,11 +272,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-4",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1255.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -290,8 +290,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "品系&amp;基因",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "品系 基因",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         }
       ]
