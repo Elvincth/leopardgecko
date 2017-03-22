@@ -8,7 +8,7 @@
       "styling": {
         "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
+        "successColor": "#3d8eb9",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 41,
+    "uniqCompNum": 50,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -84,7 +84,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "_tags": [
@@ -161,7 +161,7 @@
           },
           "title": "香港豹紋守宮資料庫",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">品系 基因</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">品系 基因</a>   "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">品系 基因</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">飼養資料</a>   "
         }
       ]
     },
@@ -217,7 +217,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "_tags": [
@@ -712,15 +712,303 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.8",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
             "showButton": false
           },
           "title": "Reccessive 隠性",
-          "text": "<p>照片從 The Urban Gecko, ETC ,Leopardgecko.com,Gecko Time</p>",
+          "text": "<p>照片從 The Urban Gecko, ETC ,Leopardgecko.com,Gecko Time, Geckoboa</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-15",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Tremper Albino 川普白化",
+          "caption": "<p>最早發現、最為普及的白化類型。</p><p>特徵:</p><p>1.幼體瞳孔紅色，成體會轉為暗紅到黑色，虹膜銀灰色。</p><p>2.色塊變化範圍比較大，從淺棕色到深棕色都有。</p><p>資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-16",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-1061-1-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Bell Albino 貝爾白化",
+          "caption": "<p><br></p><p>它的特徵:</p><p>1.瞳孔為通透的紅色或寶石紅色，成體可能會轉變成較暗紅色，虹膜一般略帶粉紅色。</p><p>2.色塊一般呈棗棕色、紫棕色、棕色等比較深的斑塊，但目前也有色塊比較淺的個體。</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</span></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-17",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-1-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Rainwater／Las Vagas Albino 雨水白化",
+          "caption": "<p>它的特徵:</p><p>1.眼睛色素深，接近非白化個體的眼睛。瞳孔自出生即是黑色，虹膜棕色。</p><p>2.比較原始的雨水白化體色呈現出鵝黃色。身上斑紋一般很淺</p><p>資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-18",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ecf1-reye-1113-2000x1326.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Eclipse 日蝕",
+          "caption": "<p>它的特徵:</p><p>1.特殊眼。色素對虹膜的覆蓋，使得眼睛有部分（蛇眼）或全部實心（實心眼）的表現。在日蝕的影響下，很多品系如超級銀河（Super Galaxy）、黑洞（Black Hole）、颱風及雪花颱風（Typhoon&amp;Snow Typhoon）等還能有俗稱“惡魔眼”的表現，即表現出黑色實心虹膜而瞳孔紅色，但這需要在特殊的角度下顯現。</p><p>2.多有白鼻心白手套。</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3.體色的影響:一般會使體色變淡，這就是為什麼顏色鮮豔的APTOR比體色鮮豔的RAPTOR多的原因。此外會使斑點變細碎。</span></p><p>個人認為其特徵並不包括其對紋路的影響，該基因僅僅是在無紋直線的選育過程中意外被解鎖，但並不能說明它和無紋直線/反直線有連鎖的關係，更不可能兩隻特殊紋路互配便能產生日蝕。日蝕的突變（AA--&gt;Aa）在豹紋中存在，而恰好在選育過程中的近親交配背景下，使突變個體（Aa）有更高機率碰撞在一起產生了日蝕個體（aa ）。 （這也是近親結婚為什麼容易貽患遺傳病的原因。）但正是因為它是無紋直線選育系的產物，目前很多個體或多或少受到紋路影響。為了獲得一隻“純日蝕”的方法可以通過與原始的野生個體交配再進行子代互配。</p><p>資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-19",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/blm1-15-9l-1213-2000x1146.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Blizzard 暴風雪",
+          "caption": "<p>它的特徵:</p><p>1.從出生開始身體便紋。體色會從灰色到灰白色或夾帶黃色。</p><p>資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1a",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0041-copy-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Murphy Patterness 梅菲無紋",
+          "caption": "<p><br></p><p>也譯作無紋、輕白化，也簡寫為Patternless（但注意和無紋直線的區別）、patty。</p><p>特徵:</p><p>1.出生時有紋路，隨著成長而消失。成體體色會黃色或淡黃色</p><p>2.抑制蘿蔔尾表現</p><p>資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1b",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mehtf1-reye-0813-2000x1310.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Marble eye 雲石眼",
+          "caption": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">它的特徵:</span><br></p><p>1.特殊眼。色素對虹膜的覆蓋，且具立體感，正如其名，像一些種類的大理石紋路一樣。使得眼睛有部或全部實心的表現。</p><p>資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1c",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bamdit-cinnamon-albino-result-2000x1501.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Ciannamon 玉桂",
+          "caption": "<p>桂Ciannamon是川普Mr. Ron Tremper在培育土匪Bandit時所得的突變基因。川普先生用了４年時間，把樣本送往歐洲／美國等地作試驗｡川普先生亦利用兩隻隠性玉桂het Ciannamon的土匪Bandit作配對而得到普通Normal和玉桂 Ciannamon的子代。此並非偶然的結果，而在三胎的結果皆一樣，從而證明為隠性基因Reccessive Trait。</p><p>Bandit het Ciannamon x Bandit het Ciannamon = 同時得到普通Normal 以及 玉桂Ciannamon 的子代｡</p><p>另外最引人爭議的是溫度問題，底溫孵化是會得到體色較深的表現。川普先生利用高溫，華氏89-90度（攝氏大約32度）都孵化出玉桂Ciannamon的體色，所以已證實玉桂Ciannamon這基因並非由溫度影響而做成｡</p><p>資料來源:http://www.leopardgecko.com/bandits,P1 Gecko</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1d",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mooneyes-2000x1370.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Ndbe 黑眼",
+          "caption": "<p>這一切都是自2013年，當我正在瘋狂的尋找一隻優良的橘化種公來改進我的橘化線路。儘管認識很多世界知名的繁殖者，我仍未找我想要的，而我的最親的好友以及夥伴 Lydie Verger – Didiegecko Aft 大方的給了我一隻她的守宮。一隻非常好看的新生兒 Mandarin Tangerine 公，名叫 Noir Désir (在法文義為”黑色慾望”)。這隻守宮來自於一對擁有全紅蘿蔔尾的優良的 Mandarin Tangerine 種對。 Noir Désir 很明顯擁有著同樣的特徵就像他的父母一樣但是有著更濃郁深沉的外表.....<i><a href=\"https://www.facebook.com/notes/%E6%A5%94%E8%99%8E%E5%AD%90-cleo/noir-d%C3%A9sir-%E6%96%B0%E7%9A%84%E9%9A%B1%E6%80%A7%E5%9F%BA%E5%9B%A0-by-alan/1160360980745032\" class=\"text-success\"><b>閱讀更多</b></a></i></p><p>資料來源:Gecko Time,楔虎子 CLEO</p>"
         }
       ]
     }
