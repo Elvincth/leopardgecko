@@ -700,11 +700,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-14",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mooneyes-2000x1370.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -712,14 +712,14 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.7",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
             "showButton": false
           },
           "title": "Reccessive 隠性",
-          "text": "<p>照片從 The Urban Gecko, ETC ,Leopardgecko.com</p>",
+          "text": "<p>照片從 The Urban Gecko, ETC ,Leopardgecko.com,Gecko Time</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         }
       ]
