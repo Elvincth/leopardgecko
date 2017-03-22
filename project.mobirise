@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "Leopard Gecko",
-    "currentPage": "page1.html",
+    "currentPage": "gene.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -31,8 +31,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Leopard Gecko Hong Kong",
+        "meta_descr": "Leopard Gecko Hong Kong",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -165,10 +165,10 @@
         }
       ]
     },
-    "page1.html": {
+    "gene.html": {
       "settings": {
-        "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description"
+        "title": "Leopard Gecko Hong Kong",
+        "meta_descr": "Leopard Gecko Hong Kong"
       },
       "components": [
         {
