@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 33,
+    "uniqCompNum": 36,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -313,7 +313,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1481.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gg-2000x1500.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -321,14 +321,14 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.8",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
             "showButton": false
           },
           "title": "Dominant 顯性",
-          "text": "<div><span style=\"font-size: 1.07rem; line-height: 1.5; color: rgb(255, 255, 255);\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">照片從&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5; color: rgb(255, 255, 255);\">The Urban Gecko, ETC 資料來源, leopardgecko.com, GeckoBoa, leopardgeckowiki, http://bbs.pxtx.com/thread-978566-1-1.do,Premium Gecko P1Gecko,www.dragoongecko.com</span><br></div>",
+          "text": "<div><span style=\"font-size: 1.07rem; line-height: 1.5; color: rgb(255, 255, 255);\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">照片從&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5; color: rgb(255, 255, 255);\">The Urban Gecko, ETC,Pinterest ,Leopardgecko.com</span><br></div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -410,7 +410,7 @@
           "_name": "content5",
           "_anchor": "content5-j",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": false,
@@ -442,7 +442,7 @@
           "_name": "content5",
           "_anchor": "content5-k",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": false,
@@ -474,7 +474,7 @@
           "_name": "content5",
           "_anchor": "content5-m",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": false,
@@ -504,13 +504,13 @@
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-n",
+          "_anchor": "content5-y",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/lf-2000x1213.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -523,8 +523,40 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "Title",
-          "caption": "<p>words</p>"
+          "title": "Lemon Frost 檸檬霜",
+          "caption": "<p><br></p><p>檸檬霜首先被Gourmet Rodent孵出。它在2012年底或2013年初從普通男性X普通女性。幸運的是，Gourmet Rodent的一名工作人員意識到，第一隻檸檬霜是一種獨特的動物，它被留下來，以測試這種獨特的豹紋守宮有一個新的和可遺傳的基因的可能性。原來的檸檬霜是一個女性，當她養殖時，至少有兩隻檸檬霜在她的第一個繁殖季節被孵出。</p><p>資料來源:http://www.geckosetc.com/lemon_frost_info.html</p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-z",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/pastel-2000x1213.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Pastel 蠟筆",
+          "caption": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Pastel的發現</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2008最初得到的個體之一</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">2008年繁育者繁育出了3個藍肚子的Ra BABY，但是在4-8週的時候這些顏色卻消失。之後幾年一直也沒有太大的突破。</span></p><p>2012年以前為了避免基因的稀釋，繁育者沒有加入任何其他的血統去繁殖Pastel，但是沒有任何進展，只是發現了大部分Pastel Ra都是有橫紋的。而且證實了Pastel也並不是Snow或者W&amp;Y。</p><p>2012年又融合了巨人和雪花基因在Pastel Ra。</p><p>2014年4月他還是沒有搞出來藍色肚子的baby。所以就融合了其他的基因來證明Pastel是顯性基因還是多色基因，Pastel ra是不是有超級模式。</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2014年7月因為最開始是因為藍色而培育的這個基因，所以在之後Pastel繁殖的個體中出現了類似薰衣草的這種顏色。最後這種基因到底是什麼還需要慢慢去證明。</span></p><p>資料來源:http://www.leopardgecko.com/info-page</p>"
         }
       ]
     }
