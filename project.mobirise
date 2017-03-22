@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Leopard Gecko",
-    "currentPage": "gene.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -161,7 +161,7 @@
           },
           "title": "香港豹紋守宮資料庫",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">品系 基因</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">飼養資料</a>   "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"gene.html\" data-toolbar=\"-mbrBtnMove\">品系 基因</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"basic.html\" data-toolbar=\"-mbrBtnMove\">飼養資料</a>   "
         }
       ]
     },
