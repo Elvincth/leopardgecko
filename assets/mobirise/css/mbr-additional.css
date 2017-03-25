@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -8,11 +10,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 .btn,
 .alert,
@@ -36,7 +38,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -50,7 +52,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 .btn-sm,
 .lead a,
@@ -62,13 +64,13 @@ h6,
   font-family: 'Lora', serif;
 }
 .mbr-author-name {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Lora', serif;
 }
 .mbr-plan-title {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
@@ -635,6 +637,8 @@ h6,
 #content5-1d p {
   color: #fff;
 }
+
+
 #menu-1e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -718,5 +722,22 @@ h6,
 }
 #msg-box6-1n .mbr-section-title,
 #msg-box6-1n .lead p {
+  color: #fff;
+}
+#image1-1u B {
+  color: #efefef;
+}
+#msg-box6-1w .mbr-section-title,
+#msg-box6-1w .lead p {
+  color: #fff;
+}
+#msg-box6-1w H3 {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box6-1w SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box6-1x .mbr-section-title,
+#msg-box6-1x .lead p {
   color: #fff;
 }
