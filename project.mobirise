@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Leopard Gecko",
-    "currentPage": "index.html",
+    "currentPage": "gene.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,8 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -688,7 +689,7 @@
             "showCaption": true
           },
           "title": "Giant 巨人",
-          "caption": "<p>1. 體重</p><p>成體的公達到重量:80-110 g</p><p>成體的母達到重量:60-90 g</p><p>超過以上的2個重量就是super giant</p><p>(*要去到10-12個月, 達以上重量)</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2. 基因:</span></p><p>Super Giant X Super Giant = 100% Super Giant</p><p>Super Giant X Giant = 50% Super Giant / 50% Giant</p><p>Super Giant X Normal = 100% Giant</p><p>Giant X Giant = 25% Super Giant, 50% Giant, 25% Normal</p><p>Giant X Normal = 50% Giant / 50% Normal</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3. 身長: Super Giant成體身長達 28 cm</span></p><p>多數super giant 身長會有 28cm or 11“ （10個月左右）</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">有時父母無GIANT基因, 但因其體質關係, 都可能會去到GIANT級的重量, 但因為無擁有GIANT 基因, 所以唔可以當係giant, 因為子代不會有giant.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">所以其實父母基因比較重要, 體重,體長只是一個指標。</span></p><p>資料來源:http://www.leopardgecko.com/, https://www.facebook.com/climbinclimbout/?fref=ts</p>"
+          "caption": "<p>1. 體重</p><p>成體的公達到重量:80-110 g</p><p>成體的母達到重量:60-90 g</p><p>超過以上的2個重量就是super giant</p><p>(*要去到10-12個月, 達以上重量)</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2. 基因:</span></p><p>Super Giant X Super Giant = 100% Super Giant</p><p>Super Giant X Giant = 50% Super Giant / 50% Giant</p><p>Super Giant X Normal = 100% Giant</p><p>Giant X Giant = 25% Super Giant, 50% Giant, 25% Normal</p><p>Giant X Normal = 50% Giant / 50% Normal</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">有時父母無GIANT基因, 但因其體質關係, 都可能會去到GIANT級的重量, 但因為無擁有GIANT 基因, 所以唔可以當係giant, 因為子代不會有giant.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">所以其實父母基因比較重要, 體重,體長只是一個指標。</span></p><p>資料來源:http://www.leopardgecko.com/, https://www.facebook.com/climbinclimbout/?fref=ts</p>"
         },
         {
           "_styles": {
@@ -1443,6 +1444,11 @@
             "Theme"
           ],
           "_name": "image1",
+          "_styles": {
+            "B": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "image1-1u",
           "media": {
             "image": {
@@ -1461,12 +1467,7 @@
           "_params": {
             "showText": true
           },
-          "text": "<b>&nbsp; &nbsp; &nbsp; &nbsp;豹紋守宮誤食爬蟲專用沙</b>",
-          "_styles": {
-            "B": {
-              "color": "#efefef"
-            }
-          }
+          "text": "<b>&nbsp; &nbsp; &nbsp; &nbsp;豹紋守宮誤食爬蟲專用沙</b>"
         },
         {
           "_inherit": "msg-box5",
