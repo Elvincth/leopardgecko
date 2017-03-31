@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Leopard Gecko",
-    "currentPage": "index.html",
+    "currentPage": "gene.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 74,
+    "uniqCompNum": 75,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -147,7 +147,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/486eca96-ba0d-4afc-855e-63429ad3442e-2000x1325.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-12-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -279,7 +279,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1255.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/486eca96-ba0d-4afc-855e-63429ad3442e-2000x1325.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -592,7 +592,7 @@
             "showButton": false
           },
           "title": "Co-Dominant 共顯性",
-          "text": "<p>照片從 The Urban Gecko, ETC ,Leopardgecko.com</p>",
+          "text": "<p>照片從 The Urban Gecko, ETC ,Leopardgecko.com,GeckoForums.net</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -626,6 +626,38 @@
           },
           "title": "Mack Snow 馬克雪花",
           "caption": "<p>特徵：</p><p>馬克雪花（雜合體形式）</p><p>1.出生時黑白分明（非白化個體）。</p><p>2.抑制黃色素表現，但一些個體成年時仍表現近似普通個體，特別是一些改良、選育後的個體更是難以區分，幼體時分辨則較為準確。</p><p>馬克超級雪花（純合體形式）</p><p>1.實心特殊眼表現。</p><p>2.頰部（“鼻樑”）骨骼輕微內凹，這也是為什麼很多超級雪花個體看起來“鼻子大”、“臉長”的原因。</p><p>3.無黃色素表現，底色純白。</p><p>遺傳規律:</p><p>MSS X MSS =100% MSS</p><p>MSS X MS =50%MSS 50%MS</p><p>MSS Normal =100%MS</p><p>MS MS=25%MSS 50%MS 25%Normal</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">MS Normal=50%MS 50%Normal</span></p><p>資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-22",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1268.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Super Snow 超級白雪",
+          "caption": "<p>Super Snow超級白雪&nbsp;: 含有2份馬克白雪基因的豹紋守宮.</p><p>Mack Snow X Mack Snow = 25% Normal, 50%Mack Snow, 25% Super Snow&nbsp;</p><p>Super Snow X Mack Snow = 50% Mack Snow, 50% Super Snow.</p><p>Super Snow X Super Snow = 100% Super Snow</p><p>Super Snow X Normal = 100% Mack Snow</p><p>資料來源:http://m.xuite.net/blog/deantmt/blog/193735892</p>"
         },
         {
           "_styles": {
