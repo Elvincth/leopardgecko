@@ -752,6 +752,7 @@ h6,
 #msg-box6-1x .lead p {
   color: #fff;
 }
+
 #menu-1y .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -812,6 +813,10 @@ h6,
 #menu-1y .link[aria-expanded="true"],
 #menu-1y .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+}
+#header1-2c .btn {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
 }
 #menu-23 .hide-buttons .nav-btn {
   display: none !important;
