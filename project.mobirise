@@ -1235,7 +1235,7 @@
             }
           },
           "_params": {
-            "showText": true
+            "showText": false
           },
           "text": "豹紋守宮如何飼養？ - Video By Elvin"
         },
@@ -1378,7 +1378,7 @@
             }
           },
           "_params": {
-            "showText": true
+            "showText": false
           },
           "text": "<b>溫控的設置 (Photo By Swing)</b>"
         },
