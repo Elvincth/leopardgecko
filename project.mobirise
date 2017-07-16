@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Leopard Gecko",
-    "currentPage": "teach.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -148,7 +148,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-12-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1334.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
