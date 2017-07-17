@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Leopard Gecko",
-    "currentPage": "index.html",
+    "currentPage": "teach.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 85,
+    "uniqCompNum": 95,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -1846,7 +1846,7 @@
           },
           "title": "教學資料",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://youtu.be/GQAlx9aOWK0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">分公母</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://youtu.be/5OOSvxV61FA\" data-toolbar=\"-mbrBtnMove\">如何孵蛋</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"basic.html\" data-toolbar=\"-mbrBtnMove\">孵化的溫度</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://youtu.be/TRAH9b1TMdQ\" data-toolbar=\"-mbrBtnMove\">剛孵出苗的飼養環境</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://youtu.be/tvkXUUQNpKE\" data-toolbar=\"-mbrBtnMove\">如何飼養</a>    "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://youtu.be/tvkXUUQNpKE\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">如何飼養</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://youtu.be/GQAlx9aOWK0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">分公母</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://youtu.be/5OOSvxV61FA\" data-toolbar=\"-mbrBtnMove\">如何孵蛋</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">受精蛋vs水蛋</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"temp.html\" data-toolbar=\"-mbrBtnMove\">孵化的溫度</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://youtu.be/TRAH9b1TMdQ\" data-toolbar=\"-mbrBtnMove\">剛孵出苗的飼養環境</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"nitincets.html\" data-toolbar=\"-mbrBtnMove\">餌料營養分析比較</a>    "
         }
       ]
     },
@@ -2013,6 +2013,385 @@
           },
           "title": "",
           "caption": "<p><b>1. Tremper Albino 川普白化</b></p><p><b>2. Aptor * 猛禽*（基因上也是川普白化）</b></p><p><b>3. Raptor * 暴龍／紅眼暴龍 = Tremper + Eclipse</b></p><p><b>4. Nova 諾娃 = Tremper + Eclipse + enigma</b></p><p><b>5. Dreamsicle 甜甜圈 = Snow + Tremper + Eclipse + Enigma</b></p><p><b>6. Super Nova 超級諾娃 = Super Snow + Tremper + Eclipse + Enigma</b></p><p><b>7. Snow Raptor 雪花暴龍 = Snow + Tremper + Eclipse</b></p><p><b>8. Super Raptor 超級暴龍 = Super Snow + Tremper + Eclipse</b></p><p><b>9. Blazing Blizzard 超級暴風雪 = Tremper + Blizzard</b></p><p><b>10. Snow Blazing Blizzard 雪花超級暴風雪 = Snow + Tremper + Blizzard</b></p><p><b>11. Super Blazing Blizzard 超級雪花超暴 = Super Snow + Tremper + Blizzard</b></p><p><b>12. Diablo Blanco / Db 惡魔白酒 = Tremper + Eclipse + Blizzard</b></p><p><b>13. Snow Db 雪花惡魔白酒 = Snow + Tremper + Eclipse + Blizzard</b></p><p><b>14. Super Db 超級雪花惡魔白酒 = Super Snow + Tremper + Eclipse + Blizzard</b></p><p><b>15. Snow Albino / Tremper 川普雪花 = Snow + Tremper</b></p><p><b>16. Super Snow Albino / Tremper 川普超級雪花 = Super Snow + Tremper</b></p><p><b>17. Phantom 幻影 = Tug Snow + Tremper</b></p><p><b>18. Goblin 妖精／哥布林 = Tug Snow + Tremper + Eclipse</b></p><p><b>19. Murphy Tremper 川普輕白化 = Murphy Patterness + Tremper Albino</b></p><p><b>20. Ember 灰燼 = Murphy Patterness + Tremper + Eclipse&nbsp;</b></p><p><b>21. Icicle 冰柱 = Tug Snow + Tremper + Eclipse + Enigma</b></p><p><b>22. Tangelo 橘柚 (基因上也是川普白化)</b></p><p><b>23. Sunglow日焰／陽光 (基因上也是川普白化)</b></p><p><b>24. Extreme Emerine 極端翡翠 (基因上也是川普白化)</b></p>"
+        }
+      ]
+    },
+    "temp.html": {
+      "settings": {
+        "title": "Leopard Gecko Hong Kong",
+        "meta_descr": "Leopard Gecko Hong Kong"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2d",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elvins-gecko-1-125x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "file",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">香港豹紋守宮資料庫</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">主頁</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-17-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "孵化的溫度",
+          "text": "<p>Source: http://jngecko.blogspot.hk/2012/07/blog-post.html</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1125.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "",
+          "caption": "<p>蛋孵化的溫度決定性別(以下溫度只供參考):</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;攝氏24-27度 (華氏75.2-80.6度) ／ 70-90天之間 (可以確定全部為母守宮)</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;攝氏27-28度 (華氏80.6-82.4度) ／ 50-60天之間 (75% 母、25% 公)</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;攝氏28-30度 (華氏82.4-86度) ／ 40-50天之間 (50% 母、50% 公)</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;攝氏30-31度 (華氏86 -87.8度) ／ 35-45天之間 (30% 母、70% 公)</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;攝氏31-33度 (華氏87.8-91.4度) ／ 35-40天之間 (可以確定全部為公守宮)</p>"
+        }
+      ]
+    },
+    "nitincets.html": {
+      "settings": {
+        "title": "Leopard Gecko Hong Kong",
+        "meta_descr": "Leopard Gecko Hong Kong"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2h",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elvins-gecko-1-125x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "file",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">香港豹紋守宮資料庫</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">主頁</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1351.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<br><div>餌料營養分析比較</div>",
+          "text": "Source: GeckoTime,jngecko.blogspot.hk,Homes Alive Pets",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1339.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": false,
+            "showCaption": true
+          },
+          "title": "",
+          "caption": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 水分 &nbsp; &nbsp;蛋白質 &nbsp;脂肪 &nbsp;纖維質 &nbsp; &nbsp;灰質</p><p>蟋 蟀\t71.96%\t18.5%\t6.26%\t2.09%\t1.29%</p><p>超級麥皮蟲\t58.74%\t21.0%\t15.52%\t2.01%\t1.18%</p><p>麵包蟲\t62.44%\t20.27%\t12.72%\t1.73%\t1.57%</p><p>杜比亞\t61.18%\t35.6%\t6.75%\t3.25%\t2.01%</p><p>櫻桃紅蟑\t63.63%\t36.5%\t5.31%\t2.19%\t1.95%</p><p>馬島蟑螂\t64.09%\t26.7%\t5.05%\t5.62%\t1.37%</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-2l",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/table-large-1400x857.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-2m",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/reptile-feeders-chart-1400x682.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "http://www.geckotime.com/nutritional-value-of-commercially-raised-insects/"
         }
       ]
     }
