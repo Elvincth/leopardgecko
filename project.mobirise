@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Leopard Gecko",
-    "currentPage": "teach.html",
+    "currentPage": "nitincets.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2123,8 +2123,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2g",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-17-2000x1333.jpg",
@@ -2157,8 +2157,8 @@
           "_name": "content5",
           "_anchor": "content5-2e",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1125.jpg",
@@ -2289,8 +2289,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2i",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1351.jpg",
@@ -2323,8 +2323,8 @@
           "_name": "content5",
           "_anchor": "content5-2j",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1339.jpg",
