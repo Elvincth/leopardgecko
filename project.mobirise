@@ -1211,7 +1211,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/just+throwing+in+two+cute+leopard+geckos+_c847aeb7bf8cc11da7468f4a82b8e3ff-2000x1494.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/justthrowingintwocuteleopardgeckos-c847aeb7bf8cc11da7468f4a82b8e3ff-2000x1494.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1287,7 +1287,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/e36a512fe5b90101a88ae780e05256f8_m-1-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/e36a512fe5b90101a88ae780e05256f8-m-1-1400x1400.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1346,7 +1346,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/82321_20thermostat_20300w-1400x1001.png",
+              "src": "@PROJECT_PATH@/assets/images/82321-20thermostat-20300w-1400x1001.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1704,7 +1704,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/just+throwing+in+two+cute+leopard+geckos+_c847aeb7bf8cc11da7468f4a82b8e3ff-1400x1045.jpg",
+              "src": "@PROJECT_PATH@/assets/images/justthrowingintwocuteleopardgeckos-c847aeb7bf8cc11da7468f4a82b8e3ff-1400x1045.jpg",
               "link": "",
               "alt": "",
               "title": "",
