@@ -1,7 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
 
 
 
@@ -477,6 +480,9 @@ h6,
 #header1-1 .btn {
   font-family: 'Oxygen', sans-serif;
   font-size: 20px;
+}
+#header1-1 .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
 }
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
@@ -1030,4 +1036,24 @@ h6,
 #content5-2j .mbr-section-title,
 #content5-2j p {
   color: #fff;
+}
+
+
+#msg-box8-2q .mbr-section-title,
+#msg-box8-2q p {
+  color: #fff;
+}
+#msg-box2-2t .mbr-section-title {
+  color: #fff;
+  font-size: 20px;
+}
+#msg-box2-2t .mbr-section-subtitle {
+  color: #a0a0a0;
+  font-size: 12px;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+#features3-2r H5 {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
 }

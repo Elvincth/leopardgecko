@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Leopard Gecko",
-    "currentPage": "index.html",
+    "currentPage": "shop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -19,11 +19,15 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#a0a0a0",
+        "#5b5b5b"
+      ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 95,
-    "versionPublish": "3.12.1",
+    "uniqCompNum": 102,
+    "versionPublish": "4.2.3",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
@@ -97,17 +101,17 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -116,16 +120,17 @@
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "file",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">香港豹紋守宮資料庫</a>",
@@ -141,27 +146,31 @@
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "header1-1",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1334.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "title": "香港豹紋守宮資料庫",
           "text": "",
@@ -230,17 +239,17 @@
           "_name": "menu",
           "_anchor": "menu-e",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -249,16 +258,17 @@
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "file",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">香港豹紋守宮資料庫</a>",
@@ -276,23 +286,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-f",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "3",
             "paddingBottom": 3,
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/486eca96-ba0d-4afc-855e-63429ad3442e-2000x1325.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "基因 品系<br>",
           "text": "",
@@ -313,23 +323,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-g",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/lf-2000x1125.png",
-            "bgColor": "#F2F2F2",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.7"
           },
           "title": "Dominant 顯性",
           "text": "<div><span style=\"font-size: 1.07rem; line-height: 1.5; color: rgb(255, 255, 255);\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">照片從&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5; color: rgb(255, 255, 255);\">The Urban Gecko, ETC ,Leopardgecko.com</span><br></div>",
@@ -347,22 +357,22 @@
           "_name": "content5",
           "_anchor": "content5-h",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/snow-1-1-2000x1500.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Tug Snow 奧本雪花",
           "caption": "<p>特徵：</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">1.出生時黑白分明（非白化個體）。成年後體色底色仍較白。</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">2.無超級形式。但和馬克雪花結合可以有所謂的超級形式，生物學上的複等位基因關係。</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</span></p>"
@@ -379,22 +389,22 @@
           "_name": "content5",
           "_anchor": "content5-i",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/gem-2000x1413.png",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": "0.7"
           },
           "title": "Gem Snow 寶石雪花",
           "caption": "<p><br></p><p>近年已發現可能為等顯或者只是馬克雪花的選育變種。</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">特徵：</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">1.出生時黑白分明（非白化個體）。成年後體色底色仍較白</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</span></p>"
@@ -414,22 +424,22 @@
           "_name": "content5",
           "_anchor": "content5-j",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/snow-1-2-2000x1500.jpg",
-            "bgColor": "#fff",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "White and Yellow WY 白黄",
           "caption": "<p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">早在1996年即已被白俄羅斯的兩位繁殖者發現命名。但直到2002年才開始流往歐洲其他國家。在國內，白黃（White&amp;Yellow）被一些玩家稱為“謎（Enigma）”的取代品，是剔除了謎病的謎，但事實上我認為兩者略有不同，雖然都有改變色彩的作用但謎更顯示出“聚色”，而白黃更顯示出“霧化”的感覺。&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><i><b>http://www.geckoboa.com/white-and-yellow-history.html</b></i></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</span></p>"
@@ -446,22 +456,22 @@
           "_name": "content5",
           "_anchor": "content5-k",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/snow-1-3-2000x1500.jpg",
-            "bgColor": "#fff",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": "0.7"
           },
           "title": "Enigma 迷",
           "caption": "<p>特徵：</p><p>1.白尾或芝麻點尾。抑制蘿蔔尾的表現。</p><p>2.聚色及紋路改變。 3.瞳孔周圍有橘色素，一些結合個體能造成特殊眼。</p><p>4.謎病。實為神經系統的先天發育不全，表現為動作不協調、走路不穩、撲食不穩、轉圈甚至翻滾。若幼年時能得到較好的照顧有助於減輕謎病導致的不良症狀。</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">這是一個讓人又愛又恨的變異基因，它有很好的增色聚色作用，能形成高濃度的橘色、紅色表現。但是他們卻有神經系統的先天發育不全，國內愛稱它為“腦殘”，會比其他的豹紋守宮難照顧。個人認為，如若從幼體關鍵發育階段得到很好的照顧及營養補給，他們完全可以像正常豹紋守宮一樣健壯成長。</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</span></p>"
@@ -478,22 +488,22 @@
           "_name": "content5",
           "_anchor": "content5-y",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": 3,
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/lf-2000x1213.png",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Lemon Frost 檸檬霜",
           "caption": "<p><br></p><p>檸檬霜首先被Gourmet Rodent孵出。它在2012年底或2013年初從普通男性X普通女性。幸運的是，Gourmet Rodent的一名工作人員意識到，第一隻檸檬霜是一種獨特的動物，它被留下來，以測試這種獨特的豹紋守宮有一個新的和可遺傳的基因的可能性。原來的檸檬霜是一個女性，當她養殖時，至少有兩隻檸檬霜在她的第一個繁殖季節被孵出。</p><p>資料來源:http://www.geckosetc.com/lemon_frost_info.html</p><p><br></p>"
@@ -510,22 +520,22 @@
           "_name": "content5",
           "_anchor": "content5-z",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/pastel-2000x1213.png",
-            "bgColor": "#fff",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Pastel 蠟筆",
           "caption": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Pastel的發現</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2008最初得到的個體之一</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">2008年繁育者繁育出了3個藍肚子的Ra BABY，但是在4-8週的時候這些顏色卻消失。之後幾年一直也沒有太大的突破。</span></p><p>2012年以前為了避免基因的稀釋，繁育者沒有加入任何其他的血統去繁殖Pastel，但是沒有任何進展，只是發現了大部分Pastel Ra都是有橫紋的。而且證實了Pastel也並不是Snow或者W&amp;Y。</p><p>2012年又融合了巨人和雪花基因在Pastel Ra。</p><p>2014年4月他還是沒有搞出來藍色肚子的baby。所以就融合了其他的基因來證明Pastel是顯性基因還是多色基因，Pastel ra是不是有超級模式。</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2014年7月因為最開始是因為藍色而培育的這個基因，所以在之後Pastel繁殖的個體中出現了類似薰衣草的這種顏色。最後這種基因到底是什麼還需要慢慢去證明。</span></p><p>資料來源:http://www.leopardgecko.com/info-page</p>"
@@ -542,23 +552,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-10",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/giant-1-2000x1160.png",
-            "bgColor": "#F2F2F2",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.7"
           },
           "title": "Co-Dominant 共顯性",
           "text": "<p>照片從 The Urban Gecko, ETC ,Leopardgecko.com,GeckoForums.net</p>",
@@ -576,22 +586,22 @@
           "_name": "content5",
           "_anchor": "content5-11",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mack-2000x1500.png",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Mack Snow 馬克雪花",
           "caption": "<p>特徵：</p><p>馬克雪花（雜合體形式）</p><p>1.出生時黑白分明（非白化個體）。</p><p>2.抑制黃色素表現，但一些個體成年時仍表現近似普通個體，特別是一些改良、選育後的個體更是難以區分，幼體時分辨則較為準確。</p><p>馬克超級雪花（純合體形式）</p><p>1.實心特殊眼表現。</p><p>2.頰部（“鼻樑”）骨骼輕微內凹，這也是為什麼很多超級雪花個體看起來“鼻子大”、“臉長”的原因。</p><p>3.無黃色素表現，底色純白。</p><p>遺傳規律:</p><p>MSS X MSS =100% MSS</p><p>MSS X MS =50%MSS 50%MS</p><p>MSS Normal =100%MS</p><p>MS MS=25%MSS 50%MS 25%Normal</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">MS Normal=50%MS 50%Normal</span></p><p>資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</p>"
@@ -608,22 +618,22 @@
           "_name": "content5",
           "_anchor": "content5-22",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1268.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Super Snow 超級白雪",
           "caption": "<p>Super Snow超級白雪&nbsp;: 含有2份馬克白雪基因的豹紋守宮.</p><p>Mack Snow X Mack Snow = 25% Normal, 50%Mack Snow, 25% Super Snow&nbsp;</p><p>Super Snow X Mack Snow = 50% Mack Snow, 50% Super Snow.</p><p>Super Snow X Super Snow = 100% Super Snow</p><p>Super Snow X Normal = 100% Mack Snow</p><p>資料來源:http://m.xuite.net/blog/deantmt/blog/193735892</p>"
@@ -640,22 +650,22 @@
           "_name": "content5",
           "_anchor": "content5-12",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/tg-2000x1432.png",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Tangelo 橘柚",
           "caption": "<p><br></p><p>這種顏色過程有可能是共顯性的特徵。幾年的測試育種表明，理論可能是真的。 </p><p>超級橘柚 養殖至 超級橘柚 只給予 超級橘柚。 超級橘柚 x 橫間川普白化 = 100％橘柚。</p><p>資料來源:http://www.leopardgecko.com/info-page</p><p><br></p>"
@@ -672,22 +682,22 @@
           "_name": "content5",
           "_anchor": "content5-13",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/giant-1-2000x1160.png",
-            "bgColor": "#fff",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Giant 巨人",
           "caption": "<p>1. 體重</p><p>成體的公達到重量:80-110 g</p><p>成體的母達到重量:60-90 g</p><p>超過以上的2個重量就是super giant</p><p>(*要去到10-12個月, 達以上重量)</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2. 基因:</span></p><p>Super Giant X Super Giant = 100% Super Giant</p><p>Super Giant X Giant = 50% Super Giant / 50% Giant</p><p>Super Giant X Normal = 100% Giant</p><p>Giant X Giant = 25% Super Giant, 50% Giant, 25% Normal</p><p>Giant X Normal = 50% Giant / 50% Normal</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">有時父母無GIANT基因, 但因其體質關係, 都可能會去到GIANT級的重量, 但因為無擁有GIANT 基因, 所以唔可以當係giant, 因為子代不會有giant.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">所以其實父母基因比較重要, 體重,體長只是一個指標。</span></p><p>資料來源:http://www.leopardgecko.com/, https://www.facebook.com/climbinclimbout/?fref=ts</p>"
@@ -704,23 +714,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-14",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mooneyes-2000x1370.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.8"
           },
           "title": "Reccessive 隠性",
           "text": "<p>照片從 The Urban Gecko, ETC ,Leopardgecko.com,Gecko Time, Geckoboa</p>",
@@ -738,22 +748,22 @@
           "_name": "content5",
           "_anchor": "content5-15",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1333.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Tremper Albino 川普白化",
           "caption": "<p>最早發現、最為普及的白化類型。</p><p>特徵:</p><p>1.幼體瞳孔紅色，成體會轉為暗紅到黑色，虹膜銀灰色。</p><p>2.色塊變化範圍比較大，從淺棕色到深棕色都有。</p><p>資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</p>"
@@ -770,22 +780,22 @@
           "_name": "content5",
           "_anchor": "content5-16",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-1061-1-2000x1333.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": "0.8"
           },
           "title": "Bell Albino 貝爾白化",
           "caption": "<p><br></p><p>它的特徵:</p><p>1.瞳孔為通透的紅色或寶石紅色，成體可能會轉變成較暗紅色，虹膜一般略帶粉紅色。</p><p>2.色塊一般呈棗棕色、紫棕色、棕色等比較深的斑塊，但目前也有色塊比較淺的個體。</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</span></p>"
@@ -802,22 +812,22 @@
           "_name": "content5",
           "_anchor": "content5-17",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-1-2000x1333.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Rainwater／Las Vagas Albino 雨水白化",
           "caption": "<p>它的特徵:</p><p>1.眼睛色素深，接近非白化個體的眼睛。瞳孔自出生即是黑色，虹膜棕色。</p><p>2.比較原始的雨水白化體色呈現出鵝黃色。身上斑紋一般很淺</p><p>資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</p>"
@@ -834,22 +844,22 @@
           "_name": "content5",
           "_anchor": "content5-18",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/ecf1-reye-1113-2000x1326.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Eclipse 日蝕",
           "caption": "<p>它的特徵:</p><p>1.特殊眼。色素對虹膜的覆蓋，使得眼睛有部分（蛇眼）或全部實心（實心眼）的表現。在日蝕的影響下，很多品系如超級銀河（Super Galaxy）、黑洞（Black Hole）、颱風及雪花颱風（Typhoon&amp;Snow Typhoon）等還能有俗稱“惡魔眼”的表現，即表現出黑色實心虹膜而瞳孔紅色，但這需要在特殊的角度下顯現。</p><p>2.多有白鼻心白手套。</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3.體色的影響:一般會使體色變淡，這就是為什麼顏色鮮豔的APTOR比體色鮮豔的RAPTOR多的原因。此外會使斑點變細碎。</span></p><p>個人認為其特徵並不包括其對紋路的影響，該基因僅僅是在無紋直線的選育過程中意外被解鎖，但並不能說明它和無紋直線/反直線有連鎖的關係，更不可能兩隻特殊紋路互配便能產生日蝕。日蝕的突變（AA--&gt;Aa）在豹紋中存在，而恰好在選育過程中的近親交配背景下，使突變個體（Aa）有更高機率碰撞在一起產生了日蝕個體（aa ）。 （這也是近親結婚為什麼容易貽患遺傳病的原因。）但正是因為它是無紋直線選育系的產物，目前很多個體或多或少受到紋路影響。為了獲得一隻“純日蝕”的方法可以通過與原始的野生個體交配再進行子代互配。</p><p>資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</p>"
@@ -866,22 +876,22 @@
           "_name": "content5",
           "_anchor": "content5-19",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/blm1-15-9l-1213-2000x1146.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Blizzard 暴風雪",
           "caption": "<p>它的特徵:</p><p>1.從出生開始身體便紋。體色會從灰色到灰白色或夾帶黃色。</p><p>資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</p>"
@@ -898,22 +908,22 @@
           "_name": "content5",
           "_anchor": "content5-1a",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-0041-copy-2000x1333.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Murphy Patternless 梅菲無紋",
           "caption": "<p><br></p><p>也譯作無紋、輕白化，也簡寫為Patternless（但注意和無紋直線的區別）、patty。</p><p>特徵:</p><p>1.出生時有紋路，隨著成長而消失。成體體色會黃色或淡黃色</p><p>2.抑制蘿蔔尾表現</p><p>資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</p>"
@@ -930,22 +940,22 @@
           "_name": "content5",
           "_anchor": "content5-1b",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mehtf1-reye-0813-2000x1310.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Marble eye 雲石眼",
           "caption": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">它的特徵:</span><br></p><p>1.特殊眼。色素對虹膜的覆蓋，且具立體感，正如其名，像一些種類的大理石紋路一樣。使得眼睛有部或全部實心的表現。</p><p>資料來源:http://bbs.pxtx.com/thread-978566-1-1.do</p>"
@@ -962,22 +972,22 @@
           "_name": "content5",
           "_anchor": "content5-1c",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/bamdit-cinnamon-albino-result-2000x1501.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Cinnamon 玉桂",
           "caption": "<p>玉桂Cinnamon是川普Mr. Ron Tremper在培育土匪Bandit時所得的突變基因。川普先生用了４年時間，把樣本送往歐洲／美國等地作試驗｡川普先生亦利用兩隻隠性玉桂het Cinnamon的土匪Bandit作配對而得到普通Normal和玉桂 Cinnamon的子代。此並非偶然的結果，而在三胎的結果皆一樣，從而證明為隠性基因Reccessive Trait。</p><p>Bandit het Cinnamon x Bandit het Cinnamon = 同時得到普通Normal 以及 玉桂Cinnamon 的子代｡</p><p>另外最引人爭議的是溫度問題，底溫孵化是會得到體色較深的表現。川普先生利用高溫，華氏89-90度（攝氏大約32度）都孵化出玉桂Ciannamon的體色，所以已證實玉桂Cinnamon這基因並非由溫度影響而做成｡</p><p>資料來源:http://www.leopardgecko.com/bandits,P1 Gecko</p>"
@@ -994,22 +1004,22 @@
           "_name": "content5",
           "_anchor": "content5-1d",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mooneyes-2000x1370.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Ndbe 黑眼",
           "caption": "<p>這一切都是自2013年，當我正在瘋狂的尋找一隻優良的橘化種公來改進我的橘化線路。儘管認識很多世界知名的繁殖者，我仍未找我想要的，而我的最親的好友以及夥伴 Lydie Verger – Didiegecko Aft 大方的給了我一隻她的守宮。一隻非常好看的新生兒 Mandarin Tangerine 公，名叫 Noir Désir (在法文義為”黑色慾望”)。這隻守宮來自於一對擁有全紅蘿蔔尾的優良的 Mandarin Tangerine 種對。 Noir Désir 很明顯擁有著同樣的特徵就像他的父母一樣但是有著更濃郁深沉的外表.....<i><a href=\"https://www.facebook.com/notes/%E6%A5%94%E8%99%8E%E5%AD%90-cleo/noir-d%C3%A9sir-%E6%96%B0%E7%9A%84%E9%9A%B1%E6%80%A7%E5%9F%BA%E5%9B%A0-by-alan/1160360980745032\" class=\"text-success\"><b>閱讀更多</b></a></i></p><p>資料來源:Gecko Time,楔虎子 CLEO</p>"
@@ -1029,23 +1039,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-20",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/f-2000x1500.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.8"
           },
           "title": "選育 Line-Breed",
           "text": "資料來源:http://www.geckoboa.com/leopard-gecko-genetics.html",
@@ -1063,23 +1073,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-21",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-11-2000x1333.jpg",
-            "bgColor": "#000000",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "",
           "text": "<p><b>少斑Hypo / Hypomelanistic =背部黑色色素缺乏</b></p><p><b>超級少斑Super Hypo =缺乏背部的所有斑點</b></p><p><b>Ray Hines 少斑 Ray Hines Hypo - 可能的主要hypo基因，真正的Ray Hines少斑可能不再存在了</b></p><p><b>Carrot Tail 胡蘿蔔尾巴=尾巴上的橙色</b></p><p><b>Baldy =禿子</b></p><p><b>Carrot Head 胡蘿蔔頭=橙色圖案橙色頭(蘿蔔頭)</b></p><p><b>SHTCTB =超級橘化蘿蔔尾巴(禿子)</b></p><p><b><br></b></p><p><b>橘子=橙色</b></p><p><b>橘子和翡翠有不同的線路， 下面是一些常見的線路:</b></p><p><b>•Blood 血系 - JMG線路</b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Black Blood  黑血系</b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Purple Blood 紫色血系 - 從Sin City Gecko's罪惡之守宮(內森·賈米森 Nathan Jamieson)出來的純血線路。</b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Blood Emerine 血系翡翠</b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Blood Hypo 少斑血系-血系與少斑基因混合</b></p><p><b>•電解/電橘- HISS線路</b></p><p><b>•守宮基因 Gecko Genetics - Jason Haygood線路</b></p><p><b>&nbsp; -Mandarin- 來自 守宮基因 Gecko Geneticstics線路</b></p><p><b>•熱帶橘 Torrid</b></p><p><b>•龍捲風橘子 Tangerine Tornado</b></p><p><b>•原子- A＆M線路 Atomic&nbsp;</b></p><p><b>•阿富汗橘子Afghan Tangerine - 選育阿富汗橘子由終極守宮 Ultimate Gecko開創</b></p><p><b>•Gourmet Rodent線路 - 大多數線路來自GM</b></p><p><b>尼維斯橘子 Nieves Tangerine</b></p><p><b>•地獄  Inferno- 由Albey，TUG和電橘/電解 線路組成的豪華線路</b></p><p><b>•熱守宮橘子Hot Geckos Tangerine - 橘子線路源自 丹·盧賓斯基 Dan Lubinsky</b></p><p><b>•是烈洒Firewater的主要貢獻者。也許沒有純正的烈酒Firewater存在，但無疑地構成了今天看到的其他一些血統。他們在95年從Ron Hatcher購買的。</b></p><p><b><br></b></p><p><b>綠色/翡翠 = 嘗試選育進行綠色染色，通常只是橘子變體</b></p><p><b><br></b></p><p><b>•Pacific Green 太平洋綠線路-從凱爾·戈林 Kyle Golinveaux</b></p><p><b>•賽克斯翡翠 Sykes Emerine - 來自Steve Sykes的線路</b></p><p><b>•G-計劃(綠色計劃) G-Project - 馬特·巴羅力Matt 的選育繁殖橘子。來自A＆M的彩虹條紋計劃 Rainbow stripe projects</b></p><p><b>&nbsp; &nbsp;-小丑 G (小丑綠) Clown G- 綠色計劃和電解選育</b></p><p><b>•綠色＆橘子 Emerine &amp; Tangerine - 終極守宮路線 Ultimate Geckos&nbsp;</b></p><p><b>•血系翡翠 Blood Emerine - 血系和翡翠 雜交</b></p><p><b><br></b></p><p><b>薰衣草 Lavender = 任何選育繁殖出非常高薰衣草的豹紋守宮</b></p><p><b>•薰衣草貝爾 Lavender Bell - 保羅·艾倫線路 Paul Allen</b></p><p><b><br></b></p><p><b>條紋 Striped = 任何有條紋的豹紋守宮</b></p><p><b>備註:</b></p><p><b>1. Patterness 指苗時</b></p><p><b>2. 直線不—定有直線紋路</b></p><p><b>形容型態，尾巴表現</b></p><p><b>•彩虹條紋 Rainbow Stripe- 原始由A＆M守宮繁殖出的條紋和反條紋的豹紋守宮。以橙色和綠色著色為特徵。基礎到其他項目，如綠色計劃 G-Project</b></p><p><b>•賽克斯彩虹 Sykes Rainbow&nbsp;</b></p><p><b><br></b></p><p><b>叢林 Jungle = 背上出現亂紋</b></p><p><b>紅色條紋 (紅直線) Red Stripe = 兩條突出顯示背紋</b></p><p><b>反條紋(反直線) Reverse Stripe =單背條（通常與日蝕Eclipse基因相關）</b></p><p><b>無紋條紋(無紋直線) Parttless Stripe =與日蝕Eclipse基因相關的無花紋或反向條紋。</b></p><p><b><br></b></p><p><b>粗線條 Bold = 非常粗線條</b></p><p><b>粗線條條紋(直紋) Bold Stripe=粗線條或非常暗條紋(直紋)</b></p><p><b>•土匪 Bandit&nbsp;</b></p><p><b>•萬聖節面具Halloween Mask&nbsp;</b></p><p><b>•R2-R2爬行動物路線（羅賓和羅素 Robin and Russell Struck）</b></p><p><b>•GGG（金門守宮路線 Golden Gate Gecko Line）</b></p><p><b>•火粗線條(不肯定)Firebold&nbsp;</b></p><p><b>•極粗線條(不肯定) Extreme Bold&nbsp;</b></p><p><b><br></b></p><p><b>超黃(不肯定)Hyper Xanthic - 由JMG開發，它們的特徵是熒光黃色和高對比度</b></p><p><b>蠟筆/超級暴龍蠟筆 Pastel/Pastel Raptor - 由Ron Tremper開發，最初是藍色肚皮計劃 Blue Belly Project</b></p><p><b>黑珍珠 Black Peral（遺傳學仍然是完全不清楚的，但似乎是選育，最黑的似乎是在墨菲無紋版本）</b></p><p><b>黑夜 Black Night - 由荷蘭Ferry Zuurmond開發的超黑色Hyper Melanistic線路</b></p><p><b><br></b></p><p><b>Translate by Elvin Chu&nbsp;</b></p>",
@@ -1148,17 +1158,17 @@
           "_name": "menu",
           "_anchor": "menu-1e",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1167,16 +1177,17 @@
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "file",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">香港豹紋守宮資料庫</a>",
@@ -1194,23 +1205,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1f",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": "3",
-            "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/justthrowingintwocuteleopardgeckos-c847aeb7bf8cc11da7468f4a82b8e3ff-2000x1494.jpg",
-            "bgColor": "#F2F2F2",
+            "bgImage": "@PROJECT_PATH@/assets/images/just+throwing+in+two+cute+leopard+geckos+_c847aeb7bf8cc11da7468f4a82b8e3ff-2000x1494.jpg",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "飼養資料",
           "text": "<p>資料引用:www.hkherp.org/document/caresheet/Eublepharis_macularius.pdf</p><p>只應作為參考，並不能完全概括所有情況。&nbsp;</p>",
@@ -1252,31 +1263,31 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-1l",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/e36a512fe5b90101a88ae780e05256f8-m-1-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/e36a512fe5b90101a88ae780e05256f8_m-1-1400x1400.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1311,31 +1322,31 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-1m",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/82321-20thermostat-20300w-1400x1001.png",
+              "src": "@PROJECT_PATH@/assets/images/82321_20thermostat_20300w-1400x1001.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1395,25 +1406,25 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-1s",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1454,25 +1465,25 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-1t",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1513,25 +1524,25 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-1n",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-2000x1333.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1610,25 +1621,25 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-1w",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1669,31 +1680,31 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-1x",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-16-2000x1333.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/justthrowingintwocuteleopardgeckos-c847aeb7bf8cc11da7468f4a82b8e3ff-1400x1045.jpg",
+              "src": "@PROJECT_PATH@/assets/images/just+throwing+in+two+cute+leopard+geckos+_c847aeb7bf8cc11da7468f4a82b8e3ff-1400x1045.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1778,17 +1789,17 @@
           "_name": "menu",
           "_anchor": "menu-1y",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1797,16 +1808,17 @@
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "file",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">香港豹紋守宮資料庫</a>",
@@ -1826,23 +1838,23 @@
           },
           "_anchor": "header1-2c",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-14-2000x1333.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "title": "教學資料",
           "text": "",
@@ -1911,17 +1923,17 @@
           "_name": "menu",
           "_anchor": "menu-23",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1930,16 +1942,17 @@
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "file",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">香港豹紋守宮資料庫</a>",
@@ -1960,23 +1973,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-24",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": "3",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/981504e34395efe7beff942b5896ce4d-2000x1500.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "基因組合",
           "text": "",
@@ -1994,22 +2007,22 @@
           "_name": "content5",
           "_anchor": "content5-25",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#000000",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "",
           "caption": "<p><b>1. Tremper Albino 川普白化</b></p><p><b>2. Aptor * 猛禽*（基因上也是川普白化）</b></p><p><b>3. Raptor * 暴龍／紅眼暴龍 = Tremper + Eclipse</b></p><p><b>4. Nova 諾娃 = Tremper + Eclipse + enigma</b></p><p><b>5. Dreamsicle 甜甜圈 = Snow + Tremper + Eclipse + Enigma</b></p><p><b>6. Super Nova 超級諾娃 = Super Snow + Tremper + Eclipse + Enigma</b></p><p><b>7. Snow Raptor 雪花暴龍 = Snow + Tremper + Eclipse</b></p><p><b>8. Super Raptor 超級暴龍 = Super Snow + Tremper + Eclipse</b></p><p><b>9. Blazing Blizzard 超級暴風雪 = Tremper + Blizzard</b></p><p><b>10. Snow Blazing Blizzard 雪花超級暴風雪 = Snow + Tremper + Blizzard</b></p><p><b>11. Super Blazing Blizzard 超級雪花超暴 = Super Snow + Tremper + Blizzard</b></p><p><b>12. Diablo Blanco / Db 惡魔白酒 = Tremper + Eclipse + Blizzard</b></p><p><b>13. Snow Db 雪花惡魔白酒 = Snow + Tremper + Eclipse + Blizzard</b></p><p><b>14. Super Db 超級雪花惡魔白酒 = Super Snow + Tremper + Eclipse + Blizzard</b></p><p><b>15. Snow Albino / Tremper 川普雪花 = Snow + Tremper</b></p><p><b>16. Super Snow Albino / Tremper 川普超級雪花 = Super Snow + Tremper</b></p><p><b>17. Phantom 幻影 = Tug Snow + Tremper</b></p><p><b>18. Goblin 妖精／哥布林 = Tug Snow + Tremper + Eclipse</b></p><p><b>19. Murphy Tremper 川普輕白化 = Murphy Patterness + Tremper Albino</b></p><p><b>20. Ember 灰燼 = Murphy Patterness + Tremper + Eclipse&nbsp;</b></p><p><b>21. Icicle 冰柱 = Tug Snow + Tremper + Eclipse + Enigma</b></p><p><b>22. Tangelo 橘柚 (基因上也是川普白化)</b></p><p><b>23. Sunglow日焰／陽光 (基因上也是川普白化)</b></p><p><b>24. Extreme Emerine 極端翡翠 (基因上也是川普白化)</b></p>"
@@ -2077,17 +2090,17 @@
           "_name": "menu",
           "_anchor": "menu-2d",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -2096,16 +2109,17 @@
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "file",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">香港豹紋守宮資料庫</a>",
@@ -2123,23 +2137,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2g",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-17-2000x1333.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "孵化的溫度",
           "text": "<p>Source: http://jngecko.blogspot.hk/2012/07/blog-post.html</p>",
@@ -2157,22 +2171,22 @@
           "_name": "content5",
           "_anchor": "content5-2e",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1125.jpg",
-            "bgColor": "#fff",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": "0.8"
           },
           "title": "",
           "caption": "<p>蛋孵化的溫度決定性別(以下溫度只供參考):</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;攝氏24-27度 (華氏75.2-80.6度) ／ 70-90天之間 (可以確定全部為母守宮)</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;攝氏27-28度 (華氏80.6-82.4度) ／ 50-60天之間 (75% 母、25% 公)</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;攝氏28-30度 (華氏82.4-86度) ／ 40-50天之間 (50% 母、50% 公)</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;攝氏30-31度 (華氏86 -87.8度) ／ 35-45天之間 (30% 母、70% 公)</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;攝氏31-33度 (華氏87.8-91.4度) ／ 35-40天之間 (可以確定全部為公守宮)</p>"
@@ -2240,17 +2254,17 @@
           "_name": "menu",
           "_anchor": "menu-2h",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -2259,16 +2273,17 @@
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "file",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">香港豹紋守宮資料庫</a>",
@@ -2289,23 +2304,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2i",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "2",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1351.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "<br><div>餌料營養分析比較</div>",
           "text": "Source: GeckoTime,jngecko.blogspot.hk,Homes Alive Pets",
@@ -2323,22 +2338,22 @@
           "_name": "content5",
           "_anchor": "content5-2j",
           "_params": {
+            "showTitle": false,
+            "showCaption": true,
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1339.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": false,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "",
           "caption": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 水分 &nbsp; &nbsp;蛋白質 &nbsp;脂肪 &nbsp;纖維質 &nbsp; &nbsp;灰質</p><p>蟋 蟀\t71.96%\t18.5%\t6.26%\t2.09%\t1.29%</p><p>超級麥皮蟲\t58.74%\t21.0%\t15.52%\t2.01%\t1.18%</p><p>麵包蟲\t62.44%\t20.27%\t12.72%\t1.73%\t1.57%</p><p>杜比亞\t61.18%\t35.6%\t6.75%\t3.25%\t2.01%</p><p>櫻桃紅蟑\t63.63%\t36.5%\t5.31%\t2.19%\t1.95%</p><p>馬島蟑螂\t64.09%\t26.7%\t5.05%\t5.62%\t1.37%</p>"
@@ -2392,6 +2407,207 @@
             "showText": false
           },
           "text": "http://www.geckotime.com/nutritional-value-of-commercially-raised-insects/"
+        }
+      ]
+    },
+    "shop.html": {
+      "settings": {
+        "title": "Elvin's Gecko Shop",
+        "meta_descr": "Elvin's Gecko Shop"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/b2f88b51-2694-4753-bd44-44ef2d3c3866-1600x1064.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Elvin's Gecko 商店",
+          "text": "<p>WhatsApp: 9086 8404</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "20px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-size": "12px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Super Hypo Tangerine Carrot-Tail (SHTCT)",
+          "text": "<span style=\"font-style: normal;\"><b>超級少斑橙化蘿蔔尾&nbsp;</b></span>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2t"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/shtch1-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/shtct2-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "ID: SH141701",
+          "subtitle1": "<span style=\"font-style: normal;\">Sex: Unsex</span>",
+          "caption1": "Price:250 HKD<br>Hatch:14 Aug 2017<br>Status: For Sale<br>Note: Nice Orange Head",
+          "title2": "ID: SH141701",
+          "subtitle2": "<span style=\"font-style: normal;\">Sex: Unsex</span>",
+          "caption2": "Price:250 HKD\n<br>Hatch:14 Aug 2017\n<br>Status: For Sale\n<br>Note: Nice Orange Head",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2r",
+          "_styles": {
+            "H5": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "center"
+            }
+          }
         }
       ]
     }
