@@ -1039,21 +1039,58 @@ h6,
 }
 
 
-#msg-box8-2q .mbr-section-title,
-#msg-box8-2q p {
-  color: #fff;
-}
 #msg-box2-2t .mbr-section-title {
   color: #fff;
-  font-size: 20px;
+  font-size: 30px;
+  text-align: left;
 }
 #msg-box2-2t .mbr-section-subtitle {
   color: #a0a0a0;
   font-size: 12px;
   font-family: 'Oxygen', sans-serif;
-  text-align: center;
+  text-align: left;
+}
+#msg-box2-2t .mbr-section-subtitle SPAN {
+  font-size: 19px;
 }
 #features3-2r H5 {
   font-family: 'Lato', sans-serif;
   text-align: center;
+}
+#msg-box8-2u .mbr-section-title,
+#msg-box8-2u p {
+  color: #fff;
+}
+#msg-box2-2v .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-2v .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#msg-box2-2v .mbr-section-subtitle SPAN {
+  font-size: 20px;
+}
+#msg-box2-2v .btn {
+  font-size: 16px;
+}
+#msg-box1-2x SPAN {
+  font-size: 20px;
+}
+#msg-box1-2x .btn {
+  font-size: 16px;
+}
+#msg-box1-2x H2 {
+  text-align: left;
+}
+#msg-box2-30 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-30 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#msg-box2-30 .mbr-section-subtitle SPAN {
+  font-size: 20px;
+}
+#msg-box2-30 .btn {
+  font-size: 16px;
 }

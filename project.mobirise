@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Leopard Gecko",
-    "currentPage": "shop.html",
+    "currentPage": "shopshtct.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,11 +22,12 @@
       },
       "additionalSetColors": [
         "#a0a0a0",
-        "#5b5b5b"
+        "#5b5b5b",
+        "#2e2e2e"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 102,
+    "uniqCompNum": 109,
     "versionPublish": "4.2.3",
     "favicon": "",
     "noImageResize": "",
@@ -180,8 +181,9 @@
     },
     "gene.html": {
       "settings": {
-        "title": "Leopard Gecko Hong Kong",
-        "meta_descr": "Leopard Gecko Hong Kong"
+        "title": "Leopard Gecko Hong Kong - Gene",
+        "meta_descr": "Leopard Gecko Hong Kong",
+        "order": 2
       },
       "components": [
         {
@@ -1099,8 +1101,9 @@
     },
     "basic.html": {
       "settings": {
-        "title": "Leopard Gecko Hong Kong",
-        "meta_descr": "Leopard Gecko Hong Kong"
+        "title": "Leopard Gecko Hong Kong - Basic",
+        "meta_descr": "Leopard Gecko Hong Kong",
+        "order": 3
       },
       "components": [
         {
@@ -1730,8 +1733,9 @@
     },
     "teach.html": {
       "settings": {
-        "title": "Leopard Gecko Hong Kong",
-        "meta_descr": "Leopard Gecko Hong Kong"
+        "title": "Leopard Gecko Hong Kong - Teach",
+        "meta_descr": "Leopard Gecko Hong Kong",
+        "order": 4
       },
       "components": [
         {
@@ -1864,8 +1868,9 @@
     },
     "geneb.html": {
       "settings": {
-        "title": "Web Generator Title",
-        "meta_descr": "Leopard Gecko Hong Kong"
+        "title": "Leopard Gecko Hong Kong - Gene B",
+        "meta_descr": "Leopard Gecko Hong Kong",
+        "order": 5
       },
       "components": [
         {
@@ -2031,8 +2036,9 @@
     },
     "temp.html": {
       "settings": {
-        "title": "Leopard Gecko Hong Kong",
-        "meta_descr": "Leopard Gecko Hong Kong"
+        "title": "Leopard Gecko Hong Kong - Temp",
+        "meta_descr": "Leopard Gecko Hong Kong",
+        "order": 6
       },
       "components": [
         {
@@ -2195,8 +2201,9 @@
     },
     "nitincets.html": {
       "settings": {
-        "title": "Leopard Gecko Hong Kong",
-        "meta_descr": "Leopard Gecko Hong Kong"
+        "title": "Leopard Gecko Hong Kong - nitincets",
+        "meta_descr": "Leopard Gecko Hong Kong",
+        "order": 7
       },
       "components": [
         {
@@ -2410,66 +2417,37 @@
         }
       ]
     },
-    "shop.html": {
+    "shopshtct.html": {
       "settings": {
-        "title": "Elvin's Gecko Shop",
-        "meta_descr": "Elvin's Gecko Shop"
+        "title": "Elvin's Gecko Shop -SHTCT",
+        "meta_descr": "Elvin's Gecko Shop",
+        "order": 8
       },
       "components": [
         {
           "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/b2f88b51-2694-4753-bd44-44ef2d3c3866-1600x1064.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Elvin's Gecko 商店",
-          "text": "<p>WhatsApp: 9086 8404</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-2q"
-        },
-        {
-          "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "20px"
+              "font-size": "30px",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0",
               "font-size": "12px",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "font-size": "19px"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
-            "paddingTop": "0",
+            "inverse": false,
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2573,11 +2551,11 @@
             }
           },
           "title1": "ID: SH141701",
-          "subtitle1": "<span style=\"font-style: normal;\">Sex: Unsex</span>",
-          "caption1": "Price:250 HKD<br>Hatch:14 Aug 2017<br>Status: For Sale<br>Note: Nice Orange Head",
-          "title2": "ID: SH141701",
-          "subtitle2": "<span style=\"font-style: normal;\">Sex: Unsex</span>",
-          "caption2": "Price:250 HKD\n<br>Hatch:14 Aug 2017\n<br>Status: For Sale\n<br>Note: Nice Orange Head",
+          "subtitle1": "<span style=\"font-style: normal;\">Picture:</span>",
+          "caption1": "Price:250 HKD<br>Sex: Unsex<br>Hatch:14 Aug 2017<br>Status: For Sale<br>Note: Nice Orange Head",
+          "title2": "ID: SH141702",
+          "subtitle2": "<span style=\"font-style: normal;\">Picture:</span>",
+          "caption2": "Price:250 HKD\n<br>Sex: Unsex<br>Hatch:14 Aug 2017\n<br>Status: For Sale\n<br>Note: Nice Orange Head",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -2608,6 +2586,178 @@
               "text-align": "center"
             }
           }
+        }
+      ]
+    },
+    "shop.html": {
+      "settings": {
+        "meta_descr": "Elvin Gecko Shop",
+        "title": "Elvin Gecko Shop",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/b2f88b51-2694-4753-bd44-44ef2d3c3866-1600x1064.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Elvin's Gecko 商店",
+          "text": "<p>WhatsApp: 9086 8404</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2u"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Blood Emerine",
+          "text": "<span style=\"font-style: normal;\"><b>血系翡翠</b></span>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"shopshtct.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>查看</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2v"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Electric",
+          "text": "<span style=\"font-style: normal;\"><b>電解</b></span>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"shopshtct.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>查看</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "SPAN": {
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-size": "16px"
+            },
+            "H2": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box1-2x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SHTCT",
+          "text": "<span style=\"font-style: normal;\"><b>血系翡翠</b></span>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"shopshtct.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>查看</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-30"
         }
       ]
     }
