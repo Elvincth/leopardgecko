@@ -4,6 +4,8 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 
 
 
@@ -1063,12 +1065,20 @@ h6,
   font-family: 'Lato', sans-serif;
   text-align: center;
 }
+
+
+
+
 #msg-box8-2u .mbr-section-title,
 #msg-box8-2u p {
   color: #fff;
 }
 #msg-box8-2u .mbr-section-title {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box8-2u .lead P {
+  font-family: 'Indie Flower', cursive;
 }
 #msg-box2-2v .mbr-section-title {
   color: #ffffff;
@@ -1078,18 +1088,26 @@ h6,
 }
 #msg-box2-2v .mbr-section-subtitle SPAN {
   font-size: 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #msg-box2-2v .btn {
   font-size: 16px;
 }
-#msg-box1-2x SPAN {
-  font-size: 20px;
+#msg-box1-33 SPAN {
+  font-size: 48px;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
-#msg-box1-2x .btn {
+#msg-box1-33 .btn {
   font-size: 16px;
 }
-#msg-box1-2x H2 {
+#msg-box1-33 H2 {
   text-align: left;
+}
+#msg-box1-33 H3 {
+  color: #5b5b5b;
+  text-align: left;
+  font-size: 20px;
 }
 #msg-box2-30 .mbr-section-title {
   color: #ffffff;
