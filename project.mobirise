@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 122,
+    "uniqCompNum": 123,
     "versionPublish": "4.2.3",
     "favicon": "",
     "noImageResize": "",
@@ -332,7 +332,7 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lf-2000x1125.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/btim-en-961x640.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -345,7 +345,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "Dominant 顯性",
-          "text": "<div><span style=\"font-size: 1.07rem; line-height: 1.5; color: rgb(255, 255, 255);\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">照片從&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5; color: rgb(255, 255, 255);\">The Urban Gecko, ETC ,Leopardgecko.com</span><br></div>",
+          "text": "<div><span style=\"font-size: 1.07rem; line-height: 1.5; color: rgb(255, 255, 255);\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">照片從 Btim,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5; color: rgb(255, 255, 255);\">The Urban Gecko, ETC ,Leopardgecko.com</span><br></div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -489,38 +489,6 @@
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-y",
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lf-2000x1213.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "Lemon Frost 檸檬霜",
-          "caption": "<p><br></p><p>檸檬霜首先被Gourmet Rodent孵出。它在2012年底或2013年初從普通男性X普通女性。幸運的是，Gourmet Rodent的一名工作人員意識到，第一隻檸檬霜是一種獨特的動物，它被留下來，以測試這種獨特的豹紋守宮有一個新的和可遺傳的基因的可能性。原來的檸檬霜是一個女性，當她養殖時，至少有兩隻檸檬霜在她的第一個繁殖季節被孵出。</p><p>資料來源:http://www.geckosetc.com/lemon_frost_info.html</p><p><br></p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
           "_anchor": "content5-z",
           "_params": {
             "showTitle": true,
@@ -640,6 +608,38 @@
           },
           "title": "Super Snow 超級白雪",
           "caption": "<p>Super Snow超級白雪&nbsp;: 含有2份馬克白雪基因的豹紋守宮.</p><p>Mack Snow X Mack Snow = 25% Normal, 50%Mack Snow, 25% Super Snow&nbsp;</p><p>Super Snow X Mack Snow = 50% Mack Snow, 50% Super Snow.</p><p>Super Snow X Super Snow = 100% Super Snow</p><p>Super Snow X Normal = 100% Mack Snow</p><p>資料來源:http://m.xuite.net/blog/deantmt/blog/193735892</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-y",
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lf-2000x1213.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Lemon Frost 檸檬霜",
+          "caption": "<p><br></p><p>檸檬霜首先被Gourmet Rodent孵出。它在2012年底或2013年初從普通男性X普通女性。幸運的是，Gourmet Rodent的一名工作人員意識到，第一隻檸檬霜是一種獨特的動物，它被留下來，以測試這種獨特的豹紋守宮有一個新的和可遺傳的基因的可能性。原來的檸檬霜是一個女性，當她養殖時，至少有兩隻檸檬霜在她的第一個繁殖季節被孵出。</p><p>資料來源:http://www.geckosetc.com/lemon_frost_info.html</p><p><br></p>"
         },
         {
           "_styles": {
@@ -1048,7 +1048,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/f-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dddd-959x960.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1058,10 +1058,10 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.7"
           },
           "title": "選育 Line-Breed",
-          "text": "資料來源:http://www.geckoboa.com/leopard-gecko-genetics.html",
+          "text": "相片由Fong Kai Ming 提供 資料來源:http://www.geckoboa.com/leopard-gecko-genetics.html",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1212,11 +1212,11 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/justthrowingintwocuteleopardgeckos-c847aeb7bf8cc11da7468f4a82b8e3ff-2000x1494.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/b9e9d41b-1f83-48b5-be8d-ec4d94d8d85a-1600x1064.jpg",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
@@ -1228,7 +1228,7 @@
             "overlayOpacity": 0.5
           },
           "title": "飼養資料",
-          "text": "<p>資料引用:www.hkherp.org/document/caresheet/Eublepharis_macularius.pdf</p><p>只應作為參考，並不能完全概括所有情況。&nbsp;</p>",
+          "text": "<p>相片由 BoTimLai提供</p><p> 資料引用:www.hkherp.org/document/caresheet/Eublepharis_macularius.pdf</p><p>只應作為參考，並不能完全概括所有情況。&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1968,24 +1968,16 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
-            },
-            ".lead": {
-              "color": "#ffffff"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-24",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/981504e34395efe7beff942b5896ce4d-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/b2f88b51-2694-4753-bd44-44ef2d3c3866-1600x1064.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1998,8 +1990,13 @@
             "overlayOpacity": 0.5
           },
           "title": "基因組合",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "text": "<p>相片由Elvin Chu , BoTimLai提供 參考資料 Edmund Wong , Peter Ho</p><p>Edit By Elvin Chu</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3e"
         },
         {
           "_styles": {
@@ -2015,12 +2012,12 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/unnamed-1920x1280.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -2202,7 +2199,7 @@
     },
     "nitincets.html": {
       "settings": {
-        "title": "Leopard Gecko Hong Kong - nitincets",
+        "title": "Leopard Gecko Hong Kong - Niti",
         "meta_descr": "Leopard Gecko Hong Kong",
         "order": 8
       },
@@ -2418,373 +2415,10 @@
         }
       ]
     },
-    "shopshtct.html": {
+    "genecalc.html": {
       "settings": {
-        "title": "Elvin's Gecko Shop -SHTCT",
-        "meta_descr": "Elvin's Gecko Shop",
-        "order": 9
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "30px",
-              "text-align": "left"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0",
-              "font-size": "12px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "left"
-            },
-            ".mbr-section-subtitle SPAN": {
-              "font-size": "19px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Super Hypo Tangerine Carrot-Tail (SHTCT)",
-          "text": "<span style=\"font-style: normal;\"><b>超級少斑橙化蘿蔔尾&nbsp;</b></span>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-2t"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/shtch1-600x399.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/shtct2-600x399.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "ID: SH141701",
-          "subtitle1": "<span style=\"font-style: normal;\">Picture:</span>",
-          "caption1": "Price:250 HKD<br>Sex: Unsex<br>Hatch:14 Aug 2017<br>Status: For Sale<br>Note: Nice Orange Head",
-          "title2": "ID: SH141702",
-          "subtitle2": "<span style=\"font-style: normal;\">Picture:</span>",
-          "caption2": "Price:250 HKD\n<br>Sex: Unsex<br>Hatch:14 Aug 2017\n<br>Status: For Sale\n<br>Note: Nice Orange Head",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-2r",
-          "_styles": {
-            "H5": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "text-align": "center"
-            }
-          }
-        }
-      ]
-    },
-    "shop.html": {
-      "settings": {
-        "meta_descr": "Elvin Gecko Shop",
-        "title": "Elvin Gecko Shop",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            },
-            ".lead P": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/b2f88b51-2694-4753-bd44-44ef2d3c3866-1600x1064.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Elvin's Gecko 商店",
-          "text": "<p>WhatsApp: 9086 8404</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-2u"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            },
-            ".mbr-section-subtitle SPAN": {
-              "font-size": "20px",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            ".btn": {
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Blood Emerine",
-          "text": "<span style=\"font-style: normal;\"><b>血系翡翠</b></span>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"shopshtct.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span>查看</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-2v"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "電解",
-          "text": "<span style=\"font-style: normal;\"><b>Electric</b></span>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"shopshtct.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span>查看</a>   ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "SPAN": {
-              "font-size": "48px",
-              "color": "#000000",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            ".btn": {
-              "font-size": "16px"
-            },
-            "H2": {
-              "text-align": "left"
-            },
-            "H3": {
-              "color": "#5b5b5b",
-              "text-align": "left",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "msg-box1-33"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            },
-            ".mbr-section-subtitle SPAN": {
-              "font-size": "20px"
-            },
-            ".btn": {
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "SHTCT",
-          "text": "<span style=\"font-style: normal;\"><b>血系翡翠</b></span>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"shopshtct.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span>查看</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-30"
-        }
-      ]
-    },
-    "page9.html": {
-      "settings": {
-        "meta_descr": "Website Creator Description",
-        "title": "genecalc",
+        "meta_descr": "Leopard Gecko Hong Kong - Gene Calc",
+        "title": "Leopard Gecko Hong Kong - Gene Calc",
         "order": 1
       },
       "components": [
