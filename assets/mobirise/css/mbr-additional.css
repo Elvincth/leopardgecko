@@ -422,6 +422,10 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#msg-box8-3j .mbr-section-title,
+#msg-box8-3j p {
+  color: #fff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1142,4 +1146,11 @@ h6,
 }
 #msg-box2-3d .btn {
   font-size: 16px;
+}
+#content5-3f .mbr-section-title,
+#content5-3f p {
+  color: #fff;
+}
+#image1-3i DIV {
+  color: #ffffff;
 }
